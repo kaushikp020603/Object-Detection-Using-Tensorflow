@@ -1,0 +1,3 @@
+0 Water Bottle
+1 Cloth
+2 Mobile
